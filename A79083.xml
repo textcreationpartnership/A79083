@@ -1,0 +1,1141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The severall copies of the kings letters, and messages, sent to the Parliament: first, about a treatie by commissioners, and then personally by himselfe: with the Parliaments severall answers thereunto, and some observations thereupon. With the copy of a paper under the Lord Inchiquins hand, concerning the Popes Nuntio now in Ireland, and his proceedings there about the bill of bargain and sale of that kingdome. This letter from the King to the Parliament, and their answers to His Majesty, with the observations thereupon, are printed and published according to order.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79083</idno>
+            <idno type="STC">Wing C2771</idno>
+            <idno type="STC">Thomason E316_24</idno>
+            <idno type="STC">ESTC R8601</idno>
+            <idno type="EEBO-CITATION">99873353</idno>
+            <idno type="PROQUEST">99873353</idno>
+            <idno type="VID">125821</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125821)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E316[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The severall copies of the kings letters, and messages, sent to the Parliament: first, about a treatie by commissioners, and then personally by himselfe: with the Parliaments severall answers thereunto, and some observations thereupon. With the copy of a paper under the Lord Inchiquins hand, concerning the Popes Nuntio now in Ireland, and his proceedings there about the bill of bargain and sale of that kingdome. This letter from the King to the Parliament, and their answers to His Majesty, with the observations thereupon, are printed and published according to order.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jane Coe,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Ireland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Correspondence --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125821:1" rendition="simple:additions"/>
+            <p>The ſeverall COPIES OF THE Kings LETTERS, and MESSAGES, <hi>SENT TO THE</hi> PARLIAMENT: FIRST, About a Treatie by Commisſioners, and then Perſonally by Himſelfe: With the PARLIAMENTS ſeverall Anſwers thereunto, <hi>and ſome Obſervations thereupon..</hi> WITH, The COPY of a PAPER under the Lord <hi>Inchiquins</hi> hand, concerning the Popes Nuntio now in <hi>Ireland,</hi> and his proceedings thereabout the Bill of Bargain and Sale of that KINGDOME.</p>
+            <p>
+               <hi>Theſe Letters from the</hi> King <hi>to the</hi> Parliament, <hi>and their An<g ref="char:EOLhyphen"/>ſwers to His</hi> Majeſty, <hi>With the Obſervations thereupon, are Printed and Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Jane Coe,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125821:2"/>
+            <pb n="1" facs="tcp:125821:2"/>
+            <head>Per maximam amicitiam, maxima fallendi copia, Saluſt. Jug.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was one of his policies, out of whoſe acti<g ref="char:EOLhyphen"/>ons ſprang many of the <hi>Florentine Axiomes;</hi> to give moſt aſſurance of his faith &amp; friend<g ref="char:EOLhyphen"/>ſhip to thoſe men, whom he firſt meant to deceive, and diſpoile of their Eſtates: thoſe therefore, that upon ſuch truſt, diſarm them<g ref="char:EOLhyphen"/>ſelves, and put their ſwords into the others hands, and guilty (through their fooliſh credulity) of their own proper ruine, &amp; all that then can be done, is to lament, &amp; ſay (when it is too late) this was perfidiouſneſs in them, &amp; madneſſe in us: and therfore wiſe men know, <hi>pacem &amp; conditones abn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebant diſerimen ac dedecus oſtentan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os, &amp; fidem in libidine victor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Tacit, hiſt.</hi> 3. When <hi>
+                  <g ref="char:V">Ʋ</g>alentinois</hi> had no other probable way to ſur<g ref="char:EOLhyphen"/>prize the Dukedome of <hi>Vrbine,</hi> he comes to the Confines of <hi>Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ugia</hi> and treaets with <hi>Guidobald<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the preſent <hi>Duke,</hi> pretending to joyne with him againſt the common Enemy: A truce was made between them, <hi>
+                  <g ref="char:V">Ʋ</g>alen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inois</hi> enters, ſecures his Artillery, and diſaim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Duke, and forces the ſouldiers to aſſiſt him againſt <hi>Oagly,</hi> a town of the Dutch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, takes that, and in ſhort ſpace after all the reſt of the State: except only the forces of <hi>St. Leo.</hi> and <hi>Majuolo,</hi> the poore Duke with his nephew the Provoſt of Rome, being forced to flee the Country, in Peaſants attire.</p>
+            <pb n="4" facs="tcp:125821:3"/>
+            <p>Againe, after <hi>Valentinous</hi> had effected this exployt, he ſets upon <hi>Camerin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> makes <hi>Iulio, Davarano,</hi> Lord there of believe, that he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill yeeld to ſome good compoſition with him, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> comes to him to treat of the accord, during the treaty, he with his two Sonnes, and the whole Towne is ſuppriſed; this done he preſent<g ref="char:EOLhyphen"/>ly ſtrangleth the Father, and the Children, and tyrannies over the Souldiers and Inhabitants,</p>
+            <p>The Parliament deſire peace as earneſtly, and really, as their ſoules can lay out for it, but (in actions of warr eſpecially) <hi>Cit<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> venit pereulam cum contemnitur.</hi> And therefore the Parliament muſt looke before them, leſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uey ſtumble, and behind them, leaſt they be overtaken, and on either ſide, which way ſoever it cometh we never was in greater Perill, then when by treaties we have been flattered to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare it leaſt, wherefore upon a parley, or over<g ref="char:EOLhyphen"/>ture we muſt not be ſecure, but ſtand upon our guards (if we ex<g ref="char:EOLhyphen"/>pect ſafety) as in times of greateſt defyance; leaſt we ſuffer like <hi>Fa<g ref="char:EOLhyphen"/>britiô Colonua,</hi> who treating with Count <hi>Gaiazz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <hi>Capua,</hi> upon expectation of a preſent accord; <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and ſlack guard upon the walls, which they without <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> opportunity of being greedy of the ſpoyle; gaue a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odaine <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rious aſſault, carried the place, ſocked it, and tooke th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ners which ſcaped maſſacre.</p>
+            <p>Many plots have been invented againſt this City and Kingdo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, &amp; they never tooke more then in times of treaty, and to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them now, the Parliament can do no leſſe then keepe the Enemy out of our quarters, eſpecially thoſe who playd ſo foule before, leaſt we ſuffer like <hi>Pazzi,</hi> the Flowrentive Commiſſary, who though he had a faire Itum, that divers principall men in the City had ſecretly conſpired with <hi>Vitellozza,</hi> to betray Arazzo, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he then was; yet would not believe that the hearts of ſo many, as ſhould be able to affect it, could be poyſoned with ſo peſtilent a venum of treaſon, he perſwades himſelfe that the Authority of the name publike, would ſupply his neede in what he wanted and ſo by ſuffering thoſe Malignan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to remaine, and not wiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly provi<g ref="char:EOLhyphen"/>ding to keepe them downe; they comply with <hi>Vitell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zza:</hi> and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tumult<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> riſe in Armes reſcue the Captives out of priſon, ſecure <hi>Pazzi</hi> and his Officers, and ſet open the gates to <hi>Vitellozza;</hi> who thereby becomes compleate Conquerors of <hi>Arezz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> to whom the
+<pb n="5" facs="tcp:125821:3"/>ſouldiers become priſoners, the Inhabitants ſlaves, and their e<g ref="char:EOLhyphen"/>ſtates plundered. Theſe examples, and many more which might be alleged may give us to underſtand the danger of treating with an Enemy, or ſuffering them to remaine in our quarters.</p>
+            <p>And whereas his Majeſtie offers to treate himſelfe in perſon with the Parliament, names a militia; and nominates other perti<g ref="char:EOLhyphen"/>culars, and makes many plauſible expreſſions: they looke into his actions to ſee if they be congruent, as in things we have, ſo in thoſe we do, each hath his proper tryall, to prove the excellency thereof in his kinde, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>timà inſtitutiò experentià,</hi> gould by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt, the Diamant by his hardneſſe, Pearle by his water: ſo the beſt diſ<g ref="char:EOLhyphen"/>coverours of mens minds are their actions, the beſt director of actions is Councell, and the experience, the Parliament: therefore obſerve by what Councell his Majeſty is led, and by lamentable experience finde.</p>
+            <p n="1">1. That thereby much innocent blood hath been ſhed by thoſe who have command, and Commiſſion from his Majeſty, by which authority ye tooke up Armes, and remaine in an hoſtile way againſt the Parliament, many Iriſh Rebells have been brought into this Kingdome? as <hi>Grady,</hi> divers of the Butlers, Col<g ref="char:EOLhyphen"/>lonel <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eale,</hi> that brake out of the Towne; and many hundreds more received into his Maj. Army; and forces, and Gariſons kept againſt the Parliament in ſeverall places of the Kingdome.</p>
+            <p n="2">2. The like alſo hath been and ſtill is done in Scotland, many I<g ref="char:EOLhyphen"/>riſh Rebells and other frraaigne forces, and notorious Papiſts are in Armes againſt the Parliament of Scotland, <hi>Montr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e Mag<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell</hi> and others, Margues <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ley</hi> a notorious P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſt, ſeverall times Iriſh have been tranſported thither.</p>
+            <p n="3">3. Had the Parliament had the command of Dublin; and other parts kept againſt them by the Marques of <hi>O<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d,</hi> and others by authority from the King, and the Engliſh ſent thither not called back; nor reliefe ſent to thoſe that ſtayd been kept from them; Ire<g ref="char:EOLhyphen"/>land might have been reduced before this, but now the Lord <hi>Har<g ref="char:EOLhyphen"/>bert</hi> of Ragland that Popiſh inſendiary is gone over thither from the King, to receive a great command, and a nuntio from the Pope, about trading for Ireland arrived, as you may ſee by this follow<g ref="char:EOLhyphen"/>ing paper, ſubſcribed by the Lord <hi>Inthiquins</hi> one hand; a Gentle<g ref="char:EOLhyphen"/>man of Heroy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke worth, one that deſerves much honour; for his well managing of the affaires of that Kingdome within his limits</p>
+            <div type="part">
+               <pb n="4" facs="tcp:125821:4"/>
+               <head>A Copy of the Lord Inchiquin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>  Paper, con<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ning the proceedings of the Popes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with the Rebels in Ireland.</head>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>THere is lately an old Serp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> (a Limb of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> under his Holineſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, cals himſelf the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the A<g ref="char:EOLhyphen"/>poſtolique Sea to the confederate Catholique (and is by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>led Arch-Biſhop and Pry<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of Jerman<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>) arrived in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ed to keep life and vigor in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Rebellion <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> to ingage the people of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the Pope His repute for ſafety (which muſt ever <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>) <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, that the miſerable <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> people fall down and worſhip <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> wayes, and ſettle themſelv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> their adoration <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> he comes within <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and thought, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> are naturally blind, very <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> beg his benediction, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ever <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſight of him: He hath brought with him (as is ſaid) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>kets in Gold, and Arme<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> for 10000, Horſe and Foot, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> for the relief of the Iriſh, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the W<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>re, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and they agree upon the Bill of Bargain and Sale of this Kingdom. It is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, that his arrivall may advantage more their prejudice our <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>oceedings; for that the Iriſh <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re thereby ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> with prid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and arrogancie, as that they ſtand in higher <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> then ever with the Marqueſſes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ouching a Peace, which <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> confidently hope will never be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ffected.</p>
+                     <p>I have not any thing at preſent that may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> trouble  And therefore I take leave, and remain</p>
+                     <closer>
+                        <signed>
+                           <hi>Your affectionate Friend,</hi>
+INC<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>VIN.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:125821:4"/>
+               <p>Now for theſe, and other reaſons, it is not thought convenient to treat at all, not that it cannot posſibly conduce <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce, and that for theſe Reaſons:</p>
+               <p n="1">I. If his Majeſty ſhould come thus to London, he ſhould put himſelf into the capacity of an Enemy, which might much amaze the minds of the people, to ſee his Majeſty in ſuch a condition amongſt us.</p>
+               <p n="2">II. When the people ſhould hear, that after thoſe few dayes of his Majeſties being here, He would return again and leave Us  they would be ſo impatient, as that they would be hardly quelled, but with great inſurrections, and much diſcontents.</p>
+               <p n="3">III. Except there be ſome aſſurance that his Majeſty will con<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re with Them, it is of great diſadvantage to the Parliament, to admit of a Perſonall Treaty, with his Majeſty.</p>
+               <p n="4">IV. To grant his Majeſty (once co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng hither) leave to returne again in an Hoſtile way againſt the Parliament, after a few dayes Treaty was to make things far worſe, and the Kingdome further from a capacity of Peace, then now it is with us.</p>
+               <p>Since the Kings laſt Letter, there came to our hands a Paper from a perſon of quality, which is thought fit to be here inſerted.</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>KIND SIR:</salute>
+                     </opener>
+                     <p>
+                        <hi>IT is thought the King had rather he at Guild Hall, then at Weſt<g ref="char:EOLhyphen"/>minſter Hall, had rather be a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n an Engliſhman, a <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> he will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> what you will, and where <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> him <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> to paſſe his deſignes; the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> and will not ſacrifice the publike to have their debts aſſured, our Brethren know him too well to truſt to wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> she <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> of will in them to us, they helped us at a need and will never diſhonour their Nation by a miſdeed, the Preſbiterians <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> to have their way</hi> Iure Divi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> of their Iudgement, upon any complyance of the Kings, I muſt profeſſe my ſelfe to be a Preſbite<g ref="char:EOLhyphen"/>rian, but not ridged, yet I thinke that Independents may fight for us, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> principles, to lay downe their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Authority whatſoever they ſhould be there unto required, the Kingdome hath found them truſty, faithfull and valiant, in the performance of that truſt, they will diſcharge a good conſcience, and therefore can the more cheerfully bear any aſperſion.</hi>
+                     </p>
+                     <closer>
+                        <dateline>Dat. <date>Ian. 3. 1645.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="6" facs="tcp:125821:5"/>
+               <p>The Parliament have debated about the ſending of Propoſition to the King, and have agreed upon ſuch Propoſitions, as they con<g ref="char:EOLhyphen"/>ceive to bee the onely meanes for the preparing a ſale and well<g ref="char:EOLhyphen"/>grounded Peace, and that for theſe Reaſons;</p>
+               <p n="1">I. The Kings Signing of thoſe Bills, give ſatisfaction and ſecu<g ref="char:EOLhyphen"/>rity to both the Kingdomes; That His Majeſties coming hither is for Peace, and the good of His People, in giving His Royall aſſent  to what the Parliament of England and Scotland, for that purpoſe, preſent unto His Majeſty.</p>
+               <p n="2">II. His Majeſty will hereby make the ſtrongeſt Union between the two Kingdomes of England and Scotland that can be, which is already made by a Covenant with the God of Heaven, by the Parliament and the People, and wants nothing but His Majeſties aſſent.</p>
+               <p n="3">III. Religion will hereby be ſetled, all Popery and Superſt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>on utterly caſt out, the Church Reformed, and pure Religion <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bliſhed.</p>
+               <p n="4">IV. His Majeſty may come then to His Parliament with joy, and be received of His People with love and meekneſſe, and have the glory, to be accompted by His People (as is acknowledged by His Parliament) to be a principall Inſtrument in ſo good a Work.</p>
+               <p n="5">V. His Majeſty may have a reall and ſincere Parliament to ad<g ref="char:EOLhyphen"/>viſe with for the ſafety of His Perſon, State, and Kingdomes, and ſuch as will be firme to His Majeſty, for the good of Himſelfe and Poſterity, Church, and People, and ſettle the Kingdome in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Poſture, as will keepe Us under ſafe and well grounded Peace.</p>
+               <p>Wee hope His Majeſty will hearken to His Parliament.</p>
+               <q>
+                  <l>Confu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter ille fit tibi vir quiſapit,</l>
+                  <l>—Sapient i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</l>
+               </q>
+               <p>Here followeth the Copies of the King ſeverall Meſſa<g ref="char:EOLhyphen"/>ges, and Letters, and the Parliaments Anſwers there<g ref="char:EOLhyphen"/>unto.</p>
+               <pb n="7" facs="tcp:125821:5"/>
+               <p>
+                  <hi>The Kings Majeſties firſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſſage, or Letter to the Parliament, ſent from Sir</hi> Thomas Glemham <hi>by a Trumpet, about a Treaty by Commiſsioners.</hi>
+               </p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <signed>CHARLES R.</signed>
+                     </opener>
+                     <p>HIs Majeſty being <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ill deeply ſenſible of the continuati<g ref="char:EOLhyphen"/>on of this bloody and unnaturall warre, cannot thinke himſelf diſcharged of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> to God, and the affe<g ref="char:EOLhyphen"/>ction and regard he hath to the preſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ation of his People, without the conſtant application of his ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>heſt endeavours to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nd ſome expedient for the ſpeedy ending of theſe un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>appy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, if it may be, Doth therefo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> deſire, that a <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> of <hi>Richm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nd,</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Earle <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, Iohn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>,</hi> and <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi> Erſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ires, and their Atte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dants, with Coa<g ref="char:EOLhyphen"/>ches, Horſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, and other accommodations for their jour<g ref="char:EOLhyphen"/>ney to Weſtminſt<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uring the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſtay there, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eturne <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> whom His Majeſty intends to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> aſſembled in the Parl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ament of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>and at Weſtminſter, and the Commiſſioners of the Parliament of Scotland, furniſhed with ſuch Propoſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ions as His Majeſty is conſide<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> will be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he foundation of a happy and well grounded <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>Decemb. 5  164<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi>
+                           </date> 
+                           <hi>Given at the Court at Oxford. For the Speaker of the Houſe of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>
+                           </hi> pro tempore.</dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The Parliaments Anſwer to the Kings firſt Letter, ſent by a Tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er to Sir <hi>Thomas Glemham</hi> Governour of Oxford.</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>
+                        <hi>WE have rec<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ved <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Letter of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>. of this inſtant De<g ref="char:EOLhyphen"/>cember, with His Majeſties hand <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>cloſed, and have ſent back your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> by command of both Houſes, who will with all
+<pb n="8" facs="tcp:125821:6"/>convenient ſpeed return an Anſwer to his Majeſty: and reſt</hi> For Sir <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi>
+                     </p>
+                     <closer>
+                        <signed>Your loving friends, Governour of Oxford. <hi>Grey of Werk,</hi> Speaker of the Houſe of Peers <hi>pro tempore. William Lenthall,</hi> Speaker of the Houſe of Commons.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>The Kings Maieſties ſecond Meſſage to the Parliament, in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſecution of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <signed>CHARLES R.</signed>
+                     </opener>
+                     <p>HIs Majeſty cannot but extremely wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dee, that after ſo many expreſſions on your part, of a deep and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſenſe of the miſeries of this afflicted Kingdome, and of the dangers incident to his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of this unnatuall war, your many great and ſo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſtations, that the raiſing of thoſe Armies hath been only for the neceſſary defence of Gods true Religion, His Majeſties honour, ſafety and property, the peace, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and ſecurity of his People, you ſhould <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> a ſafe Conduct <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the per<g ref="char:EOLhyphen"/>ſons mentioned in his Majeſties Meſſage of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> this in<g ref="char:EOLhyphen"/>ſtant December, which are to be ſent unto you with Propoſi<g ref="char:EOLhyphen"/>tions for a well-grounded peace, a thing ſo far from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> been denied at any time by his Majeſty, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> deſired the ſame, that he believes hath been ſeldome (if ever) practiſed among the moſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and profeſſed enemies, much leſſe from Subjects to their King: But his Majeſty is re<g ref="char:EOLhyphen"/>ſolved, that no diſcouragment <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ever shall make him falle of his part, in doing his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> put an end to theſe calamities, which if not in time prevented, muſt prove the ruine of this unhappy Nation: and therefore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> once againe deſire, that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> for thoſe perſons <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> in his former Meſſage, and doth
+<pb n="9" facs="tcp:125821:6"/>therefore conſure you, as you will anſwer to almighty God in that day when he ſhall make inquiſition for all the bloud that hath and may be ſpilt in this un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aturall Warre, as you tender the preſervation and eſtabliſhment of the true Religion, by all the bonds of duty and allegiance to your King, or compaſ<g ref="char:EOLhyphen"/>ſion to your bleeding and unhappy Countrey, and of charity to your ſelves, that you diſpoſe your ſelves to a true ſenſe, and imploy your hearts, and all your faculties, in a moſt ſerious endeavour, together with his Majeſty, to ſet a ſpeedy end to theſe waſting diviſions, and then he ſhall not doubt but that God will yet againe give a bleſſing of peace to this now di<g ref="char:EOLhyphen"/>ſtracted Nation.</p>
+                     <closer>
+                        <dateline>Given at Oxford <date>the 15. of
+December. 1645.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>For the Speaker of the Houſe of Peeres <hi>pro <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>
+                  <hi>The Parliaments compleat Anſwer to both his Majeſties former Let<g ref="char:EOLhyphen"/>ters, which was ſent by Sir</hi> Peter Killegrew.</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>May it pleaſe your Majeſtie;</salute>
+                     </opener>
+                     <p>
+                        <hi>THe Lords and Commons aſſembled in the Parliament of England as W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſtminſter, have received your Letters of the fifth and fifteenth of this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> December; and having, together with the Commiſſioners of the Parliament of Scotland, taken the ſame into their ſerious conſideration, d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> humbly returns this Anſwer.</hi>
+                     </p>
+                     <p>
+                        <hi>They have in all their actions manifeſted to your Majeſtie and the world, their ſincere and earneſt deſires, that a ſafe &amp; well-gro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>inded peace might be ſetled in your three Kingdomes, and for the obtaining ſo great a bleſſing, ſhall ever pray to God, and uſe their utmoſt endeavours, and beſeech your Majeſtie to beleeve, that their not ſending a more ſpeedy anſwer, hath not proceeded from any intention to retard the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ane<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> of put<g ref="char:EOLhyphen"/>ting an end to theſe preſent calamities by a happi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> peace, but hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>caſioned by the conſiderations and debates neceſſari<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> in a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> of ſo great importance, wherein both Kingdomes are ſo much concerned.</hi>
+                     </p>
+                     <p>
+                        <hi>As to your Majeſties deſire of a ſafe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> for the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ing hither of the Duke of Richmond, the Earle of Southampton,</hi> John Aſhburnham,
+<pb n="10" facs="tcp:125821:7"/>
+                        <hi>and</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, with <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> happie and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> They <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> been made <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> under the pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ence of peace, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ved <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> cannot give way to a ſafe conduct, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ding to your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> deſire: But both Houſes of the Parliament of England, having now under their conſideration Pro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>tions, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> for the ſetling of a ſafe and well <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, which are <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> of the King <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of Scotl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd, dore<g ref="char:EOLhyphen"/>ſolve after <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> King<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>mes, to pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſens <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> all <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>.</hi>
+                     </p>
+                     <closer>
+                        <dateline>
+                           <hi>
+                              <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> the</hi>
+                           <date>25 <hi>Decem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi> 1655.</date>
+                        </dateline>
+                        <signed>Gray of Wark <hi>Speaker of the Houſe of Peeres</hi> pro tempore.
+William Lenthall <hi>Speaker of the Houſe of Comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ons.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The Kings Majeſties third Leſter being the firſt Meſſiage<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Treatie with the Parli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment.</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <signed>CHARLES R.</signed>
+                     </opener>
+                     <p>NOtwithſtanding the ſtrange and unexpected delayes which can be preſidented by no former times to his Majeſties two former Meſſa<g ref="char:EOLhyphen"/>ges, his Majeſtie will lay aſide all expoſtulations, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſerving to looſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, then to contribute <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> remedie to the evills which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the preſent do afflick this diſtrected Kingdom; therefore without <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ther preamble, his Majeſtie thinks it moſt neceſſarie to ſend theſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>poſitions thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> way, which he intended to do by the perſons mentioned in his former Meſſage, though he well knowes the great diſadvantage which overtures of this kind have by the want of being accompanied by well i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſtructed Meſſengers.</p>
+                     <p>His Majeſtie conceiving that the former Treaties have bither to pro<g ref="char:EOLhyphen"/>ved, ineffectuall, chiefly for want of power in thoſe perſons that <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ted, as likewiſe becauſe thoſe from whom their power <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> derived (not poſſibly having the particular informations of ever<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e ſeverall de<g ref="char:EOLhyphen"/>bate) could not give ſo cleare a judgement as was requiſite in ſo im<g ref="char:EOLhyphen"/>portant a buſineſſe; it therefore His Majeſtie may have the ingagement of the two Houſes of Parliament at Weſtminſter, the Commiſſione<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s of the Parliament of Sentland, the Mayor, Aldermen, Common-Councell, and <hi>Militia</hi> of London, of the chiefe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Thomas Fairfax</hi> his Army, and alſo of thoſe in the Scots Army for
+<pb n="11" facs="tcp:125821:7"/>his Majeſties ſafe and free coming and abo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d in London, or Weſtmin<g ref="char:EOLhyphen"/>ſter, with ſuch of his ſervants now attending him, and their follow<g ref="char:EOLhyphen"/>ers, not exceeding in all the number of 300 for the ſpace of 40. daies, and after the ſaid time for his free and ſafe repaire to any of his Garri<g ref="char:EOLhyphen"/>ſons of Oxford, Worceſter, or Newark, which his Majeſtie ſhall no<g ref="char:EOLhyphen"/>minate at any time before his going from London or Weſtminſter; His Majeſtie propounds, to have a perſonall Treaty with the two Houſes of Parliament at Weſtminſter, and the Commiſſioners of the Parli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ment of Scotland upon all matters which may conduce to the re<g ref="char:EOLhyphen"/>ſtoring of peace, and happineſſe, to theſe miſerable diſtracted King<g ref="char:EOLhyphen"/>doms, and to begin with the three heads which were treated on at Vx<g ref="char:EOLhyphen"/>bridge, and for the better clearing of his Majeſties earneſt and ſincer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> intentions of putting an end to theſe unn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>turall diſtractions, knowing that point of ſecurity may prove the greateſt obſtacle to this moſt bleſ<g ref="char:EOLhyphen"/>ſed worke. His Majeſtie therefore declates, that he is willing to com<g ref="char:EOLhyphen"/>mit the great truſt of the <hi>Militia</hi> of this Kingdome for ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, and with ſuch powers <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> are expreſt in the paper, delivered by his Majeſties Commiſſioners at Vxbridge, the 6. of Februarie laſt, to theſe perſons following, <hi>viz.</hi> the Lord Privy Se<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e, Duke of Richmond, Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>quiſſe of Hartford, Marquiſſe of Dorcheſter, Earl of Dorſet Lord Chamber<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>in, the Ear<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of Nor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>humberland, the Earle of Eſſex, Earle of Southamp<g ref="char:EOLhyphen"/>ton, Earle of Pembroke, Earle of Salisbury, Earle of Mancheſter, Earle of Warwick, Earle of Denbigh, Earle of Chicheſter, the Lord <hi>Say.</hi> Lord <hi>Seymour.</hi> Lord <hi>Lucas,</hi> Lord <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ppington,</hi> Mr. <hi>Denzill Holl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>,</hi> Mr. <hi>Pierpoy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>,</hi> M. <hi>Henry Bell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſſis,</hi> M. <hi>Richard Spencer,</hi> Sir <hi>Thomas Fairfa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>,</hi> M. <hi>John Aſhburnham,</hi> Sir <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rvaſe Cliſton,</hi> Sir <hi>H. Vane</hi> jun. M. <hi>Robert Wallo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> Mr. <hi>Thomas Chickley,</hi> Mr. <hi>Oliver Cromwell,</hi> and Mr. <hi>Philip Skippon;</hi> ſuppoſing that theſe are perſons againſt whom there can be to juſt exceptions: But it this do not ſatisfie, then his Majeſtie off <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s to name the on halfe, and leaves the other to the election of the two Houſes of Parliament at Weſtminſter, with the powers of limitation before mentioned. Thus his Majeſtie cals God and the world to wit<g ref="char:EOLhyphen"/>neſſe of his ſincere intentions and reall endeavours, for the compoſing and fetting of theſe miſerable diſtractions, which he doubts not (but by the bleſſing of God) will ſoone be put to an happie concluſion, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> this his Majeſti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> offer be accepted; otherwayes he leaves all the world to judge, who are the contrivers of this unnaturall war. And therefore he once more conjures you, by all the bonds of dutie which you owe
+<pb n="12" facs="tcp:125821:8"/>God and your King, to have ſo gret a compaſſion on the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> miſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rable eſtate of your Countrey, that you joyn your moſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> heartie endeavours with his Majeſty, to put a happie and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> to theſe preſent miſeries.</p>
+                     <closer>
+                        <dateline>Given at the Court of Oxford <date>Decemb. 26. 1645.</date>
+                        </dateline>
+                     </closer>
+                     <postscript>
+                        <p>For the Speaker of the Houſe of Peeres, <hi>pro <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>empore,</hi> to be comm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>cated to the two Houſes of Parliament at Weſtminſter, and the Commiſſioners of the Parliament of Scotland.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>The Kings Majeſties fourth meſſage in proſecution of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> perſonall Treatie with the Parliament, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> by Sir</hi> P. Killegrew.</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <signed>CHARLES R.</signed>
+                     </opener>
+                     <p>
+                        <hi>ALthough the meſſage ſent by Sir Peter Killegraw may juſtly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> anſwer, yet his Majeſtie layes that aſide, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> proper for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> preſent ende<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>vours, leaving all the world <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> his propaſitions for a perſinall Treatie, or the flat <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> of a ſafe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> for perſons to begin a Treatie, be greater ſignes of a reall <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> peace, and ſhall now only <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ſiſt upon his former meſſage of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> December: That upon his repair to Weſtoninfter, be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> not but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> joyn his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>avours with his Houſes of Parliament, as to give juſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> ction, not only concerning the bufineſſe of Ireland, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> alſo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> of away for the payment of the publike de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>s, as well to the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> the Citie of London, as others; and as already <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> for ſetling of the Militia, ſo he ſhall carefully <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> particulars, that none ſhall have cauſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> whereby juſt jealouſies may ariſe to hinder the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>; and certainly, this prop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſition of a perſionall <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> have entred into his Majeſties thoughts, if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> had not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, to <gap reason="illegible" resp="#PDCC" extent="2 words">
+                              <desc>〈◊◊〉</desc>
+                           </gap> to all the world, that the publike good and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> is far deaner to him, them the reſpect of any particular <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> wherefore none can <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ppoſe this motion, without a <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> that he particularly en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ies his Majeſtie ſhould be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Author <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> bleſſed a work, be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ides the declaring himſelfa a direct Oppoſer of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> pie peace of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſe Nations. To <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> will not <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> and ſpecious <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> brought <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> publike teſt, and thoſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> reall ſenſe, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> the miſeries <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> their bleading Countrey, let them ſpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dily and <gap reason="illegible" resp="#PDCC" extent="2 words">
+                              <desc>〈◊◊〉</desc>
+                           </gap> his Majeſties propoſition for his perſonal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> at Weſt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ſter,
+<pb n="13" facs="tcp:125821:8"/>which (by the bleſſing of God) will undoubtedly to theſe now diſtra<g ref="char:EOLhyphen"/>cted Kingdomes, reſtore the happineſſe of a long <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> for and laſting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</hi>
+                     </p>
+                     <closer>
+                        <dateline>
+                           <hi>Given at the Court at Oxford, the nine and twentieth day of</hi> 
+                           <date>
+                              <hi>December,</hi> 1645.</date>
+                        </dateline>
+                     </closer>
+                     <postscript>
+                        <p>
+                           <hi>For the Speaker of the Houſe of Pe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>es</hi> pr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>tempore, <hi>to be communicated to the two Houſes of Parli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ment at Weſtminſter, and the Commiſſioners of the Parliament of Scotland.</hi>
+                        </p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>The Parliaments complete Anſwer to His Majeſties two laft Letters.</hi>
+               </p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>May it pleaſe your Majeſty:</salute>
+                     </opener>
+                     <p>VVE your humble and loyall Subjects of both Kingdomes have re<g ref="char:EOLhyphen"/>ceived your Letters of the 26. and 29. of December laſt, unto which we humbly returne this Anſwer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> That there hath been no de<g ref="char:EOLhyphen"/>by on our parts, but what was neceſſarie in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> buſineſſe of ſo great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> conſequence, as is expreſt in our formet Letter to your <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Conceming the perſonall Treatie deſired by your Majeſtie, there <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing been ſo much innocen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>bloud of your good Subjects ſhed in this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, by your Majeſties Commands and Commiſſions, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> brought over into both Kingdomes, and inde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vours to bring over more, both of them, as alſo Forces from forraigne parts, your Maje<g ref="char:EOLhyphen"/>ſtie being in Armes in theſe parts, and the Prince in the head of an Ar<g ref="char:EOLhyphen"/>my in the Weſt, divers townes made Garriſons, and kept in hoſtility by your Majeſtie, againſt the Parliament of England; there being al<g ref="char:EOLhyphen"/>ſo forces in Scotland, againſt that Parliament and Kingdome, by your Majeſties Commiſſion, the w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rre in Ireland <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o mented and prolonged by your Majeſtie, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eby the three Kingdomes are brought neare to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ter ruine, and deſtruction. We conceive, that untill ſatisfaction and ſecutitie be firſt given to both your Kingdomes, your Majeſties com<g ref="char:EOLhyphen"/>ing hither cannot be convenient, not by us aſſented unto, neither can we apprehend it a means conducing to peace, that your Majeſty ſhould come to your Parliament for a few daies, with anie thoughts of lea<g ref="char:EOLhyphen"/>ving it, eſpecially with intentions of returning to hoſtility againſt it; and we do obferve, that your Majeſtie deſires the ing<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gement, not
+<pb n="14" facs="tcp:125821:9"/>onely of your Parliaments, but of the Lord Mayor, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> mon Counſell, and <hi>Militia,</hi> of the City of London, the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ders of Sir <hi>Tho. Fair faxe</hi>'s Army, and thoſe of the Scots Army, which is againſt the Priviledges and Honours of the Parliaments, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> being joyned with them, who are ſubject and ſubordinate to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> authority.</p>
+                     <p>That which your Majeſtie (againſt the freedome of the Parlia<g ref="char:EOLhyphen"/>ments) inforces in both your Letters, with many carneſt expreſſions, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> if in no other way, then that propounded by your Majeſtie, the peace of your Kingdoms could be eſtabliſhed, your Majeſtie may pleaſe to remember, that in our laſt Letter we did declare, that Propoſitions from both Kingdomes were ſpeedily to be ſent to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Majeſtie, which we conceive to be the onely way for the attaining a happie and well-grounded peace, and your Majeſties aſſent unto thoſe Propoſitions will be an effectuall meanes for giving ſatisfaction and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> your Kingdome, will aſſure a firm <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> between the two Kingdome<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> much deſired by each for other, as for themſelves) and, ſettle Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gion, and ſecure the peace of the Kingdom of Scotland, whereof <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſo much as mentioned in your <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Letter.</p>
+                     <p>And <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n proceeding according to thoſe juſt and, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> for the putting an end to the bleeding calamities of theſe Nations, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Majeſtie may have the glorie to be a principall inſtrument in ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> and we (however miſ-interpreted) ſhall approve <gap reason="illegible" resp="#PDCC" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> God and the World to be reall and ſincere in ſeeking a ſafe and <gap reason="illegible" resp="#PDCC" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> peace.</p>
+                  </body>
+               </floatingText>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
